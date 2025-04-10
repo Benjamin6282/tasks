@@ -156,4 +156,5 @@ export function editOption(
         }
         return { ...question, options: newOptions };
     });
+    return [];
 }
