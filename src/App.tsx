@@ -57,7 +57,7 @@ function App(): React.JSX.Element {
 
             <img src={img} width={900} height={600} alt="A picture of a loon" />
             <hr></hr>
-            {/* <DoubleHalf></DoubleHalf> */}
+            <DoubleHalf></DoubleHalf>
             <hr></hr>
             <ChooseTeam></ChooseTeam>
             <hr></hr>
